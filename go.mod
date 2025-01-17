@@ -6,13 +6,13 @@ require (
 	github.com/dgraph-io/badger/v3 v3.2103.5
 	github.com/docker/docker v25.0.6+incompatible
 	github.com/gliderlabs/ssh v0.3.8
-	github.com/go-playground/validator/v10 v10.23.0
+	github.com/go-playground/validator/v10 v10.24.0
 	github.com/golang/mock v1.6.0
 	github.com/google/wire v0.6.0
 	github.com/labstack/echo/v4 v4.13.3
 	github.com/prometheus/client_golang v1.20.5
 	github.com/stretchr/testify v1.10.0
-	golang.org/x/crypto v0.31.0
+	golang.org/x/crypto v0.32.0
 )
 
 require (
@@ -29,7 +29,7 @@ require (
 	github.com/docker/go-units v0.4.0 // indirect
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
-	github.com/gabriel-vasile/mimetype v1.4.3 // indirect
+	github.com/gabriel-vasile/mimetype v1.4.8 // indirect
 	github.com/go-logr/logr v1.4.1 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
@@ -64,8 +64,8 @@ require (
 	go.opentelemetry.io/otel/metric v1.24.0 // indirect
 	go.opentelemetry.io/otel/sdk v1.24.0 // indirect
 	go.opentelemetry.io/otel/trace v1.24.0 // indirect
-	golang.org/x/net v0.33.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/net v0.34.0 // indirect
+	golang.org/x/sys v0.29.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/time v0.8.0 // indirect
 	google.golang.org/protobuf v1.34.2 // indirect
